@@ -1,5 +1,0 @@
-type Note {
-id: ID! @unique
-title: String!
-content: String!
-}
